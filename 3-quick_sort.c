@@ -2,8 +2,8 @@
 
 /**
  * swap_value - swap the values of two addresses
- * @a: pointer to an int
- * @b: pointer to an int
+ * @node1: pointer to an int
+ * @node2: pointer to an int
  */
 void swap_value(int *node1, int *node2)
 {
